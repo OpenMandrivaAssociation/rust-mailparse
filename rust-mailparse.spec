@@ -5,7 +5,7 @@
 %global crate mailparse
 
 Name:           rust-%{crate}
-Version:        0.10.4
+Version:        0.16.1
 Release:        1%{?dist}
 Summary:        Simple parser for MIME e-mail messages
 
